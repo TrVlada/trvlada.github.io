@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Голодные Игры",
+    "year":"2002",
+    "author": "С. Коллинз",
+    "rating": "4.8",
+    "price": "5$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Гарри Поттер и Философский камень",
+    "year":"2002",
+    "author": "Дж. К. Роулинг",
+    "rating": "4.9",
+    "price": "7$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Королевство плоти и огня",
+    "year":"2002",
+    "author": "Дж. Арментроут",
+    "rating": "4.9",
+    "price": "6$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  }
+]
