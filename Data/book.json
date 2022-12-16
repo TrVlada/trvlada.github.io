@@ -2,6 +2,7 @@
   {
     "book_id": 1,
     "book_name": "Голодные Игры",
+    "book_year":"2002",
     "book_author": "С. Коллинз",
     "book_rating": "4.8",
     "book_price": "5$",
@@ -10,6 +11,7 @@
   {
     "book_id": 2,
     "book_name": "Гарри Поттер и Философский камень",
+    "book_year":"2002",
     "book_author": "Дж. К. Роулинг",
     "book_rating": "4.9",
     "book_price": "7$",
@@ -18,6 +20,7 @@
   {
     "book_id": 3,
     "book_name": "Королевство плоти и огня",
+    "book_year":"2002",
     "book_author": "Дж. Арментроут",
     "book_rating": "4.9",
     "book_price": "6$",
