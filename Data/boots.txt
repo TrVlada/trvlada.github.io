@@ -1,0 +1,72 @@
+[
+  {
+    "boots_id": 1,
+    "boots_name": "Chunky basic boot",
+    "boots_author": "Stradivarius",
+    "boots_rating": "4.8",
+    "boots_price": "200$",
+    "boots_year": "2012",
+    "boots_category": "Platform",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "boots_id": 2,
+    "boots_name": "Reversed heel boots ",
+    "boots_author": "ASOS",
+    "boots_rating": "4.3",
+    "boots_price": "345$",
+    "boots_year": "2014г",
+    "boots_category": "Thigh-high",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "boots_id": 3,
+    "boots_name": "Calf boots",
+    "boots_author": "Stradivarius",
+    "boots_rating": "4.8",
+    "boots_price": "622$",
+    "boots_year": "2011",
+    "boots_category": "Thigh-high",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "boots_id": 4,
+    "boots_name": "1984",
+    "boots_author": "Дж. Оруэлл",
+    "boots_rating": "4.7",
+    "boots_price": "5$",
+    "boots_year": "1947",
+    "boots_category": "Антиутопия",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "boots_id": 5,
+    "boots_name": "Сумерки",
+    "boots_author": "Ст. Майер",
+    "boots_rating": "4.6",
+    "boots_price": "5$",
+    "boots_year": "2013",
+    "boots_category": "Фэнтези",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "boots_id": 6,
+    "boots_name": "Королевство плоти и огня",
+    "boots_author": "Дж. Арментроут",
+    "boots_rating": "4.9",
+    "boots_price": "6$",
+    "boots_year": "2020",
+    "boots_category": "Фэнтези",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "boots_id": 7,
+    "boots_name": "Гарри Поттер и Принц-полукровка",
+    "boots_author": "Дж. К. Роулинг",
+    "boots_rating": "4.9",
+    "boots_price": "7$",
+    "boots_year": "2005",
+    "boots_category": "Фэнтези",
+    "boots_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  }
+]
