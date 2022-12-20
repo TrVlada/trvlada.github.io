@@ -7,7 +7,7 @@
     "book_price": "5$",
     "book_year": "2012",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "book_image": "https://static.onlinetrade.ru/img/items/b/golodnye_igry._i_vspykhnet_plamya._soyka_peresmeshnitsa_kollinz_syuzen__300399_3.jpg"
   },
   {
     "book_id": 2,
@@ -17,7 +17,7 @@
     "book_price": "3$",
     "book_year": "2014г",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "book_image": "https://yourbookstore.club/wp-content/uploads/2018/10/9781473689992_Z.jpg"
   },
   {
     "book_id": 3,
@@ -27,7 +27,7 @@
     "book_price": "6$",
     "book_year": "2011",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://bookprose.ru/pictures/1011447392.jpg"
   },
   {
     "book_id": 4,
@@ -37,7 +37,7 @@
     "book_price": "5$",
     "book_year": "1947",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://static.onlinetrade.ru/img/items/b/1984_oruell_dzhordzh__300205_2.jpg"
   },
   {
     "book_id": 5,
@@ -47,26 +47,36 @@
     "book_price": "5$",
     "book_year": "2013",
     "book_category": "Фэнтези",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://static.onlinetrade.ru/img/items/b/novolunie_mayer_s.__743073_3.jpg"
   },
   {
     "book_id": 6,
-    "book_name": "Королевство плоти и огня",
-    "book_author": "Дж. Арментроут",
+    "book_name": "Тайна острова драконов",
+    "book_author": "О. Миклашевская",
     "book_rating": "4.9",
     "book_price": "6$",
     "book_year": "2020",
     "book_category": "Фэнтези",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://moiknigi.at/upload/iblock/174/174340737076d848075b93c88cd9804e.jpg"
   },
   {
     "book_id": 7,
-    "book_name": "Гарри Поттер и Принц-полукровка",
+    "book_name": "Гарри Поттер",
     "book_author": "Дж. К. Роулинг",
-    "book_rating": "4.9",
+    "book_rating": "4.5",
     "book_price": "7$",
-    "book_year": "2005",
+    "book_year": "2020",
     "book_category": "Фэнтези",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://booklavka.ru/sites/default/files/files/itempics/81temhCJoeL.jpg"
+  },
+  {
+    "book_id": 8,
+    "book_name": "Мара и Морок",
+    "book_author": "Лия Арден",
+    "book_rating": "4.5",
+    "book_price": "7$",
+    "book_year": "2020",
+    "book_category": "Фэнтези",
+    "book_image": "https://avatars.mds.yandex.net/i?id=1f893e3f0fc07062729671a24d77f6715e33c17c-8176762-images-thumbs&n=13"
   }
 ]
